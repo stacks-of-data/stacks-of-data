@@ -4,4 +4,4 @@ I am a Research Engineer passionate about everything related to Programming, Mat
 ## Langauges and Tools
 ![Langauges and Tools](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,cmake,rust,docker,redis,php,nginx,python,pytorch,fastai,seaborn,numpy,pandas,scipy,jupyter,java,gradle,asm,go,js,html,css,react,nextjs,prisma,threejs,postgresql,bash,blender)
 
-![GitHub stats](https://github-readme-stats-nu-five-84.vercel.app/api?username=stacks-of-data&show_icons=true&theme=holi)
+![GitHub stats](https://github-readme-stats-three-delta-29.vercel.app/api?username=stacks-of-data&show_icons=true&theme=holi)
